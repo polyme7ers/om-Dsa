@@ -1,0 +1,18 @@
+Enter page table size
+10
+Enter element in page table
+1
+5
+1
+2
+6
+2
+7
+1
+5
+1
+
+(1 5 1 2 6 2 7 1 5 1)
+
+Enter page frame size
+3

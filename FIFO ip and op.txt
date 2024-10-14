@@ -1,0 +1,32 @@
+Please enter the number of Frames:
+3
+Please enter the length of the Reference string:
+20
+Please enter the reference string:
+7
+0
+1
+2
+0
+3
+0
+4
+2
+3
+0
+3
+2
+1
+2
+0
+1
+7
+0
+1
+
+(7 0 1 2 0 3 0 4 2 3 0 3 2 1 2 0 1 7 0 7)
+
+
+The number of Hits: 5
+Hit Ratio: 0.25
+The number of Faults: 15
